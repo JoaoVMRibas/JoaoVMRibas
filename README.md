@@ -4,8 +4,10 @@ My name is João. I’m currently working as a developer on front-end and back-e
 <br><br>
  
 <div align="center">
+  <!--
   <a href="https://github.com/JoaoVMRibas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVMRibas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  -->
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVMRibas&layout=compact&langs_count=7&theme=github_dark">
   -->
