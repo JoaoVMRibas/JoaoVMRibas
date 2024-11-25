@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is João. I’m currently working as a developer on front-end and back-end, where I use Vue.js and .NET. I'm also studying for interest other languages like JavaScript(Typescript), HTML and CSS.
+My name is João. I work mainly with WEB development, focusing more on the backend part using .NET. I am also currently pursuing my higher education, where I develop most of the time in Java.
 <br><br>
  
 <div align="center">
