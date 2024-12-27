@@ -1,6 +1,8 @@
 ### Hello 👋
 
-My name is João. I work mainly with WEB development, focusing more on the backend part using .NET. I am also currently pursuing my higher education, where I develop most of the time in Java.
+My name is João. <br>
+I am an electronics technician and currently pursuing a degree in Information Systems. <br> 
+I have experience in Salesforce development, performing tasks such as managing user profiles, configuring permissions, creating flows, and setting up objects and page layouts. Additionally, I have experience in web development activities, focusing on backend development using languages like C# (.NET) and Java.
 <br><br>
  
 <div align="center">
@@ -13,7 +15,6 @@ My name is João. I work mainly with WEB development, focusing more on the backe
   -->
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
